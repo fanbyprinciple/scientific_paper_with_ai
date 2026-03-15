@@ -38,3 +38,5 @@ Thumbs.db
 
 # Data files (optional, uncomment if you don't want to track giant CSVs)
 # *.csv
+
+*insta_session/*
